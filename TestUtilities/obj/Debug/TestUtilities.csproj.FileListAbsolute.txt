@@ -1,0 +1,10 @@
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\TestUtilities\bin\Debug\TestUtilities.dll.config
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\TestUtilities\bin\Debug\TestUtilities.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\TestUtilities\bin\Debug\TestUtilities.pdb
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\TestUtilities\bin\Debug\Environment.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\TestUtilities\bin\Debug\Environment.pdb
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\TestUtilities\bin\Debug\Environment.dll.config
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\TestUtilities\obj\Debug\TestUtilities.csprojResolveAssemblyReference.cache
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\TestUtilities\obj\Debug\TestUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\TestUtilities\obj\Debug\TestUtilities.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\TestUtilities\obj\Debug\TestUtilities.pdb

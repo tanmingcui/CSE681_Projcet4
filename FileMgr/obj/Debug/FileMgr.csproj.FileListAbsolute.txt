@@ -1,0 +1,10 @@
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\FileMgr\bin\Debug\FileMgr.dll.config
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\FileMgr\bin\Debug\FileMgr.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\FileMgr\bin\Debug\Environment.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\FileMgr\bin\Debug\Environment.pdb
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\FileMgr\bin\Debug\Environment.dll.config
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\FileMgr\obj\Debug\FileMgr.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\FileMgr\obj\Debug\FileMgr.pdb

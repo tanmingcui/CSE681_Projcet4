@@ -1,0 +1,16 @@
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\MessagePassingCommService.dll.config
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\MessagePassingCommService.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\Environment.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\TestUtilities.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\Environment.pdb
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\Environment.dll.config
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.dll.config
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\bin\Debug\TestUtilities.dll.config
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\obj\Debug\MessagePassingCommService.dll
+C:\Users\Tanming Cui\Desktop\CSE681_Projcet4\CSE681_Projcet4\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb
